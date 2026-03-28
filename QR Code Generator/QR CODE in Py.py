@@ -9,7 +9,7 @@ import pyqrcode
 
 #Enter the  data/website that you need QR Code for
 
-data = 'https://github.com/Gokul-Raja84'
+data = 'https://github.com/FuyukiSnowNo'
 
 #create qrcode
 
