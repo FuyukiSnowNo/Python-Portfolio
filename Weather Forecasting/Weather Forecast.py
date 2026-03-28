@@ -5,7 +5,7 @@ Weather forecast using Python
 
 '''
 
-#import the necessary Library
+#import the necessary Lib
 
 import requests
 
