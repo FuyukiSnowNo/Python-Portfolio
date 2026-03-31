@@ -1,6 +1,6 @@
 ## Python Projects Portfolio
 
-Each project within this repository has been thoughtfully crafted to tackle specific challenges
+Each project within this repository has been thoughtfully crafted to tackle specific challenges.
 
 ### Learning Through Practicality
 
