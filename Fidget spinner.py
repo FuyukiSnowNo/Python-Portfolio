@@ -1,5 +1,6 @@
 from turtle import *
 state = {'turn': 0}
+
 def spinner():
     clear()
     angle = state['turn']/10
