@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter.colorchooser import askcolor
 
+
 class Paint(object):
     pen_size = 5.0
     color = 'black'
