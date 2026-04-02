@@ -1,9 +1,7 @@
 '''
-
 Import the module - library
 Enter exact path of the Folder - Files, you want to Rename
 Run the Program and check the Renamed Files
-
 '''
 
 
