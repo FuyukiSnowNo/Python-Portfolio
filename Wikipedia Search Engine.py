@@ -1,6 +1,7 @@
 from tkinter import *
 import wikipedia
 
+
 def get_data():
     entry_value = entry.get()
     answer.delete(1.0, END)
