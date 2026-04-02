@@ -1,6 +1,7 @@
 import pyautogui
 from tkinter import Tk, Button, Label
 
+
 # Create a tkinter windows
 win = Tk()
 win.title("LoopGlitch Screenshoter")
