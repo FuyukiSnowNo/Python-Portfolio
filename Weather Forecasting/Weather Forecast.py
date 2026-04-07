@@ -1,9 +1,4 @@
-
-'''
-
-Weather forecast using Python
-
-'''
+# Weather forecast using Python
 
 #import the necessary Lib
 
@@ -19,7 +14,6 @@ print('Displaying Weather report for: ' + city)
 
 url = 'https://wttr.in/{}'.format(city)
 res = requests.get(url)
-
 
 #resulting weather report
 
